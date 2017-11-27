@@ -68,7 +68,7 @@
 
 	e. Repeat steps (a-d) for the Http trigger function. Leave the access rights to "Function". 
 		
-### Debug/Run the functions locally.
+### Debug/Run the functions locally
 
 1. Hit F5. You will get dialog telling you to update the Azure Functions CLI to the latest version. Verify this. Hit Yes.
 		
